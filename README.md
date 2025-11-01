@@ -18,9 +18,20 @@ It helps support teams reduce manual triage, improve response times, and optimiz
 - Transformer-based NLP model for high accuracy  
 - Real-time or batch prediction support  
 - Interactive GUI dashboard  
-- Knowledge-base embeddings and analytics  
-- Content gap detection and performance reports  
+- Knowledge-base embeddings and analytics
+- **Shows Real time Solutions for the tickets**
+- Content gap detection and performance reports **Improved**
 
+---
+# What's New?
+
+1. ## Real Time Solution Recommendation
+     ![Solution Preview](assests/recsol.png)
+2. ## Filter Tickets bases of Severity
+   ![Filter Preview](assests/priority.png)
+3. ## Contact Gap Analysis Improved
+    ![Filter Preview](assests/content.png)
+   
 ---
 
 ## ⚙️ Installation  
@@ -98,9 +109,9 @@ Example Workflow
 
 3. categorizer.py uses the trained model to predict the category.
 
-4. The result appears in the GUI or CLI (app.py or gui_dashboard.py).
+4. The result appears in the GUI or CLI With **Real Time Solution Recommendation**.
 
-5. Analytics and reports are generated automatically.
+5. Analytics and reports are generated automatically (**Improved**).
 
 ---
 Tech Stack
@@ -134,6 +145,6 @@ Contact & Support
 
 For questions, bug reports, or suggestions — open an issue on the GitHub repository.
 
-👤 Author: **INFOAI4(Rohit K,Sahil,Sirisha,V.Raghu)**
+👤 Author: **INFOAI4(Sahil,Rohit K,Sirisha,V.Raghu)**
 
     
